@@ -1,0 +1,30 @@
+C:\Users\Abdulelah\source\repos\Invoice\bin\Debug\Invoice.exe.config
+C:\Users\Abdulelah\source\repos\Invoice\bin\Debug\Invoice.exe
+C:\Users\Abdulelah\source\repos\Invoice\bin\Debug\Invoice.pdb
+C:\Users\Abdulelah\source\repos\Invoice\obj\Debug\Invoice.csprojAssemblyReference.cache
+C:\Users\Abdulelah\source\repos\Invoice\obj\Debug\Invoice.Form1.resources
+C:\Users\Abdulelah\source\repos\Invoice\obj\Debug\Invoice.Properties.Resources.resources
+C:\Users\Abdulelah\source\repos\Invoice\obj\Debug\Invoice.csproj.GenerateResource.cache
+C:\Users\Abdulelah\source\repos\Invoice\obj\Debug\Invoice.csproj.CoreCompileInputs.cache
+C:\Users\Abdulelah\source\repos\Invoice\obj\Debug\Invoice.exe
+C:\Users\Abdulelah\source\repos\Invoice\obj\Debug\Invoice.pdb
+C:\Users\Abdulelah\source\repos\Invoice\obj\Debug\Invoice.UI.Add.resources
+C:\Users\Abdulelah\source\repos\Invoice\obj\Debug\Invoice.UI.Delete.resources
+C:\Users\Abdulelah\source\repos\Invoice\obj\Debug\Invoice.UI.Edit.resources
+C:\Users\Abdulelah\source\repos\Invoice\obj\Debug\Invoice.UI.Products.resources
+C:\Users\Abdulelah\source\repos\Invoice\obj\Debug\Invoice.UI.Bill.resources
+D:\Personal project-C#\Invoice\Invoice git\bin\Debug\Invoice.exe.config
+D:\Personal project-C#\Invoice\Invoice git\bin\Debug\Invoice.exe
+D:\Personal project-C#\Invoice\Invoice git\bin\Debug\Invoice.pdb
+D:\Personal project-C#\Invoice\Invoice git\obj\Debug\Invoice.csproj.AssemblyReference.cache
+D:\Personal project-C#\Invoice\Invoice git\obj\Debug\Invoice.UI.Add.resources
+D:\Personal project-C#\Invoice\Invoice git\obj\Debug\Invoice.UI.Delete.resources
+D:\Personal project-C#\Invoice\Invoice git\obj\Debug\Invoice.UI.Edit.resources
+D:\Personal project-C#\Invoice\Invoice git\obj\Debug\Invoice.Form1.resources
+D:\Personal project-C#\Invoice\Invoice git\obj\Debug\Invoice.Properties.Resources.resources
+D:\Personal project-C#\Invoice\Invoice git\obj\Debug\Invoice.UI.Bill.resources
+D:\Personal project-C#\Invoice\Invoice git\obj\Debug\Invoice.UI.Products.resources
+D:\Personal project-C#\Invoice\Invoice git\obj\Debug\Invoice.csproj.GenerateResource.cache
+D:\Personal project-C#\Invoice\Invoice git\obj\Debug\Invoice.csproj.CoreCompileInputs.cache
+D:\Personal project-C#\Invoice\Invoice git\obj\Debug\Invoice.exe
+D:\Personal project-C#\Invoice\Invoice git\obj\Debug\Invoice.pdb
